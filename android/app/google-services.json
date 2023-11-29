@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743624893427",
+    "project_id": "super-mc",
+    "storage_bucket": "super-mc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743624893427:android:061778561ccc2c229a6886",
+        "android_client_info": {
+          "package_name": "com.example.super_mc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGhwhhuj2vEurAWx5FFoq_LuoQ1OBArdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
